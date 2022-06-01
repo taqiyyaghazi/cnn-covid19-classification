@@ -43,9 +43,12 @@ From the results of the training, the evaluation of the model in the last epoch 
 | Val Accuracy | 0.9062 |
 | Val Loss | 0.2128 |
 
+### Accuracy Plot per Epoch
 ![Accuracy Plot](https://raw.githubusercontent.com/taqiyyaghazi/cnn-covid19-classification/main/img/accuracy.png)
+
+### Loss Plot per Epoch
 ![Loss Plot](https://raw.githubusercontent.com/taqiyyaghazi/cnn-covid19-classification/main/img/loss.png)
 
 ## Acknowledgements
 
- - [Sumber Data](https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset)
+ - [Data Resource](https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset)
