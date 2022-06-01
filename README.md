@@ -6,7 +6,7 @@ apply the Convolutional Neural Network algorithm in recognizing X-Ray images
 as an initial diagnosis whether the patient has COVID-19 or Pneumonia.
 
 ## About Dataset
-The Covid-19 dataset used in this experiment can be downloaded [here](https://www.kaggle.com/datasets/vijaykumar1799/face-mask-detection).
+The Covid-19 dataset used in this experiment can be downloaded [here](https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset).
 The following is a summary of the dataset.
 
 | Number of Classes  | 3     | 
